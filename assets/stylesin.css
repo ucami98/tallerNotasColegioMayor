@@ -1,0 +1,43 @@
+* {
+  margin: 10px;
+  padding: 1px;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #fff;
+  border-top: 50px;
+  padding: 50px;
+  opacity: 2;
+  text-align: center;
+  background: linear-gradient(rgba(9, 120, 128, 0.74), rgb(156, 161, 161));
+}
+
+form {
+  margin: auto;
+  display: block;
+  text-align: center;
+  width: 250px;
+  border: double silver;
+  left: 80px;
+}
+
+label {
+  font-size: 1.1em;
+}
+input {
+  width: 230px;
+  text-align: center;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  margin: 0.4em;
+  padding: 0.2em;
+  text-decoration: double;
+  border: solid 1px;
+}
+
+
